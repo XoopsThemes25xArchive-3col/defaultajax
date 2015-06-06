@@ -1,0 +1,50 @@
+Xoops Default Theme with Ajax Tabs Hack, by jeffgr of www.XoopsExperts.com
+
+This hack merges the regular Xoops default theme with the Ajax Tabs script found here:
+
+http://www.dynamicdrive.com/dynamicindex17/ajaxtabscontent/
+
+Please see this page for much more detail about this script!
+
+
+
+Installation:
+
+(Back up your default default theme before uploading these files!)
+
+1. Unzip the hacked theme files to your desktop.
+
+2. Open up theme.html in your html editor, and change:
+
+Line 26 - Replace http://yourdomain.com/ with your domain
+
+Line 28 - Replace http://yourdomain.com/ with your domain
+
+Line 49 - Replace http://yourdomain.com/ with your domain
+Line 50 - Replace http://yourdomain.com/ with your domain
+Line 51 - Replace http://yourdomain.com/ with your domain
+Line 52 - Replace http://yourdomain.com/ with your domain
+Line 53 - Replace http://yourdomain.com/ with your domain
+Line 54 - Replace http://yourdomain.com/ with your domain
+Line 55 - Replace http://yourdomain.com/ with your domain
+Line 56 - Replace http://yourdomain.com/ with your domain
+Line 57 - Replace http://yourdomain.com/ with your domain
+Line 58 - Replace http://yourdomain.com/ with your domain
+
+
+3. Upload changed files to your default theme directory. You are going to overwrite a few files when you do this. 
+
+And that's it!
+
+
+Notes:
+
+- To change the way the tabs or content area looks, refer to the ajaxtabs.css in the "ajaxtabs" folder. By changing some of the css values you can change the way the tabs or content area displays.
+
+- I added some fake links to the first tab to give you an example of what a tabbed menu would look like.
+
+- The only thing I changed in the style.css file, was to remove the background image in td#headerbar, line 36
+
+
+
+
